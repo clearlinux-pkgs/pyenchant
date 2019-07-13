@@ -4,7 +4,7 @@
 #
 Name     : pyenchant
 Version  : 2.0.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/9e/54/04d88a59efa33fefb88133ceb638cdf754319030c28aadc5a379d82140ed/pyenchant-2.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9e/54/04d88a59efa33fefb88133ceb638cdf754319030c28aadc5a379d82140ed/pyenchant-2.0.0.tar.gz
 Summary  : Python bindings for the Enchant spellchecking system
